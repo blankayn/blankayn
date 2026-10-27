@@ -35,9 +35,6 @@
 <br />
 
 ### Hey, I'm Kirt.
-
-I build across **mobile, web, and AI** — from camera-based volleyball training to a voice assistant for Windows. My projects bring together practical tools, interactive interfaces, and ideas I want to explore.
-
 <br />
 
 ### Selected work
