@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/ALWAYS_LEARNING-F9E83D?style=for-the-badge&labelColor=B87BD0&color=F9E83D" alt="Always learning" />
 </p>
 
-<p align="center">
-  <img src="./assets/purple-tech.png" width="100%" alt="Purple pastel panel: My tech stack — languages, platforms, and tools" />
-</p>
+
 
 <p align="center">
   <a href="https://kotlinlang.org"><img src="./assets/tech/kotlin.gif" height="48" alt="Kotlin" /></a>&nbsp;
