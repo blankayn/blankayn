@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CREATIVE-FFD4A8?style=for-the-badge&labelColor=B87BD0&color=FFD4A8" alt="Creative" />
-  <img src="https://img.shields.io/badge/CURIOUS-62D5B4?style=for-the-badge&labelColor=B87BD0&color=62D5B4" alt="Programming" />
   <img src="https://img.shields.io/badge/ALWAYS_LEARNING-F9E83D?style=for-the-badge&labelColor=B87BD0&color=F9E83D" alt="Always learning" />
 </p>
 
