@@ -20,7 +20,15 @@
   <a href="https://www.python.org"><img src="./assets/tech/python.gif" height="48" alt="Python" /></a>&nbsp;
   <a href="https://www.typescriptlang.org"><img src="./assets/tech/ts.gif" height="48" alt="TypeScript" /></a>&nbsp;
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/tech/js.gif" height="48" alt="JavaScript" /></a>&nbsp;
-  <a href="https://www.java.com"><img src="./assets/tech/java.gif" height="48" alt="Java" /></a>
+  <a href="https://www.java.com"><img src="./assets/tech/java.gif" height="48" alt="Java" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/tech/html.gif" height="48" alt="HTML" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/tech/css.gif" height="48" alt="CSS" /></a>
+</p>
+
+<p align="center">
+  <a href="https://react.dev"><img src="./assets/tech/react.gif" height="48" alt="React" /></a>&nbsp;
+  <a href="https://vite.dev"><img src="./assets/tech/vite.gif" height="48" alt="Vite" /></a>&nbsp;
+  <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/"><img src="./assets/tech/godot.gif" height="48" alt="Godot / GDScript" /></a>
 </p>
 
 <p align="center">
@@ -45,7 +53,7 @@
 <br />
 
 <p align="center">
-  <img src="./assets/purple-about.png" width="100%" alt="Hey, I'm Kirt — mobile apps, backend, and AI/ML" />
+  <img src="./assets/purple-about-butters.png" width="100%" alt="Hey, I'm Kirt — Butters portrait, mobile apps, backend, and AI/ML" />
 </p>
 
 I enjoy building useful, creative software—from mobile apps and camera-based tools to AI assistants. I'm especially interested in backend development and AI/ML.
